@@ -12,7 +12,8 @@ A suitable KOL would depend on various attributes like:
 -   How good is the KOLs network, how many others HCPs refer cases to him in critical situations
 -   How much states or countries does the KOL treat patients.
 -   Was the KOL involved in the early trials and researches for the disease.
-    All these attributes make the job of finding the perfect KOL difficult for the pharma companies. Unless and otherwise there exists a standardized way to retrieve KOL data. This is where the KOL Profiling tool comes into picture.
+
+All these attributes make the job of finding the perfect KOL difficult for the pharma companies. Unless and otherwise there exists a standardized way to retrieve KOL data. This is where the KOL Profiling tool comes into picture.
 
 ## Data Source
 
